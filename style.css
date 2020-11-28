@@ -253,6 +253,7 @@ tr:nth-child(even) {
 }
 .section-title {
   text-align: center;
+  margin-bottom:20px;
 }
 .contact-wrapper {
   display: grid;
@@ -271,6 +272,7 @@ tr:nth-child(even) {
   color: rgb(111, 82, 207);
   font-size: 2.4rem;
   border-radius: 1rem;
+  outline-style:none;
 }
 .but {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
