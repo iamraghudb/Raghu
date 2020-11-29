@@ -122,7 +122,7 @@ nav {
   transform: translate(-50%, -50%);
   letter-spacing:2rem;
 }
-.hero-intro p {
+.hero-intro b {
   padding: 5rem 10rem;
   font-size: 2rem;
   color: var(--gray-text);
@@ -370,9 +370,17 @@ footer h4 {
     height: 90vh;
     position: relative;
   }
-  .hero-intro p {
+/*   .hero-intro p {
     padding: 5rem 3rem;
     font-size: 14px;
+  } */
+  .hero-intro h2 {
+    letter-spacing: 1rem;
+  }
+  .hero-intro b {
+    padding: 5rem 3rem;
+    font-size: 2rem;
+    letter-spacing: 0.5rem;
   }
   .burger {
     position: relative;
